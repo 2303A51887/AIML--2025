@@ -22,7 +22,7 @@
 6. [Lab 06](https://github.com/2303A51887/AIML--2025/blob/main/Lab_06.ipynb)
 7. [Lab 07](https://github.com/2303A51887/AIML--2025/blob/main/Lab_07.ipynb)
 8. [Lab 08](https://github.com/2303A51887/AIML--2025/blob/main/Lab_08.ipynb)
-9. [Lab 09](https://github.com/kirankumareranki/AIML-2025/blob/main/Lab09-AIML.ipynb)
+9. [Lab 09](https://github.com/2303A51887/AIML--2025/blob/main/Lab_09.ipynb)
 10. [Lab 10](https://github.com/kirankumareranki/AIML-2025/blob/main/Lab10-AIML.ipynb)
     
 # AIML Project Topics 
